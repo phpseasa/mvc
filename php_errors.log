@@ -1,0 +1,80 @@
+[29-Nov-2015 15:15:57 PRC] PHP Parse error:  syntax error, unexpected end of file in D:\mvc\index.php on line 17
+[29-Nov-2015 15:20:18 PRC] PHP Warning:  require_once(./sinamvc/sinamvc.php): failed to open stream: No such file or directory in D:\mvc\index.php on line 19
+[29-Nov-2015 15:20:18 PRC] PHP Fatal error:  require_once(): Failed opening required './sinamvc/sinamvc.php' (include_path='.;C:\php\pear') in D:\mvc\index.php on line 19
+[29-Nov-2015 15:26:04 PRC] PHP Warning:  require_once(D:\mvc\sinamvc): failed to open stream: Permission denied in D:\mvc\sinamvc\sinamvc.php on line 8
+[29-Nov-2015 15:26:04 PRC] PHP Fatal error:  require_once(): Failed opening required './sinamvc/' (include_path='.;C:\php\pear') in D:\mvc\sinamvc\sinamvc.php on line 8
+[29-Nov-2015 15:28:50 PRC] PHP Warning:  require_once(./sinamvc/core\common.php): failed to open stream: No such file or directory in D:\mvc\sinamvc\sinamvc.php on line 8
+[29-Nov-2015 15:28:50 PRC] PHP Fatal error:  require_once(): Failed opening required './sinamvc/core\common.php' (include_path='.;C:\php\pear') in D:\mvc\sinamvc\sinamvc.php on line 8
+[29-Nov-2015 20:46:36 PRC] PHP Parse error:  syntax error, unexpected end of file in D:\mvc\sinamvc\core\common.php on line 7
+[29-Nov-2015 20:46:48 PRC] PHP Parse error:  syntax error, unexpected end of file in D:\mvc\sinamvc\core\common.php on line 7
+[29-Nov-2015 20:46:50 PRC] PHP Parse error:  syntax error, unexpected end of file in D:\mvc\sinamvc\core\common.php on line 7
+[29-Nov-2015 20:46:50 PRC] PHP Parse error:  syntax error, unexpected end of file in D:\mvc\sinamvc\core\common.php on line 7
+[29-Nov-2015 20:46:50 PRC] PHP Parse error:  syntax error, unexpected end of file in D:\mvc\sinamvc\core\common.php on line 7
+[29-Nov-2015 20:46:50 PRC] PHP Parse error:  syntax error, unexpected end of file in D:\mvc\sinamvc\core\common.php on line 7
+[30-Nov-2015 00:02:45 PRC] PHP Notice:  Use of undefined constant BASEPATH - assumed 'BASEPATH' in D:\mvc\sinamvc\sinamvc.php on line 17
+[30-Nov-2015 00:02:45 PRC] PHP Warning:  require_once(BASEPATHcore/Controller.php): failed to open stream: No such file or directory in D:\mvc\sinamvc\sinamvc.php on line 17
+[30-Nov-2015 00:02:45 PRC] PHP Fatal error:  require_once(): Failed opening required 'BASEPATHcore/Controller.php' (include_path='.;C:\php\pear') in D:\mvc\sinamvc\sinamvc.php on line 17
+[30-Nov-2015 09:53:42 PRC] PHP Notice:  Use of undefined constant BASEPATH - assumed 'BASEPATH' in D:\mvc\sinamvc\sinamvc.php on line 17
+[30-Nov-2015 09:53:42 PRC] PHP Warning:  require_once(BASEPATHcore/Controller.php): failed to open stream: No such file or directory in D:\mvc\sinamvc\sinamvc.php on line 17
+[30-Nov-2015 09:53:42 PRC] PHP Fatal error:  require_once(): Failed opening required 'BASEPATHcore/Controller.php' (include_path='.;C:\php\pear') in D:\mvc\sinamvc\sinamvc.php on line 17
+[30-Nov-2015 09:56:27 PRC] PHP Parse error:  syntax error, unexpected 'ATH' (T_STRING) in D:\mvc\index.php on line 20
+[30-Nov-2015 09:58:50 PRC] PHP Notice:  Use of undefined constant C - assumed 'C' in D:\mvc\sinamvc\core\common.php on line 7
+[30-Nov-2015 10:04:19 PRC] PHP Fatal error:  Cannot redeclare C() (previously declared in D:\mvc\sinamvc\core\common.php:7) in D:\mvc\application\config.php on line 35
+[30-Nov-2015 10:05:20 PRC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\mvc\sinamvc\core\common.php on line 13
+[30-Nov-2015 10:28:43 PRC] PHP Parse error:  syntax error, unexpected 'include_once' (T_INCLUDE_ONCE) in D:\mvc\sinamvc\core\common.php on line 11
+[30-Nov-2015 10:28:57 PRC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in D:\mvc\sinamvc\core\common.php on line 11
+[30-Nov-2015 10:29:56 PRC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in D:\mvc\sinamvc\core\common.php on line 11
+[30-Nov-2015 10:29:57 PRC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in D:\mvc\sinamvc\core\common.php on line 11
+[30-Nov-2015 10:29:57 PRC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in D:\mvc\sinamvc\core\common.php on line 11
+[30-Nov-2015 10:29:57 PRC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in D:\mvc\sinamvc\core\common.php on line 11
+[30-Nov-2015 10:29:57 PRC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in D:\mvc\sinamvc\core\common.php on line 11
+[30-Nov-2015 10:31:42 PRC] PHP Parse error:  syntax error, unexpected 'include_once' (T_INCLUDE_ONCE) in D:\mvc\sinamvc\core\common.php on line 11
+[30-Nov-2015 10:31:43 PRC] PHP Parse error:  syntax error, unexpected 'include_once' (T_INCLUDE_ONCE) in D:\mvc\sinamvc\core\common.php on line 11
+[30-Nov-2015 10:31:43 PRC] PHP Parse error:  syntax error, unexpected 'include_once' (T_INCLUDE_ONCE) in D:\mvc\sinamvc\core\common.php on line 11
+[30-Nov-2015 10:31:43 PRC] PHP Parse error:  syntax error, unexpected 'include_once' (T_INCLUDE_ONCE) in D:\mvc\sinamvc\core\common.php on line 11
+[30-Nov-2015 13:38:13 PRC] PHP Fatal error:  Call to undefined function _get_URI() in D:\mvc\sinamvc\core\sina_router.php on line 12
+[30-Nov-2015 16:18:39 PRC] PHP Fatal error:  Only variables can be passed by reference in D:\mvc\sinamvc\core\sina_router.php on line 45
+[30-Nov-2015 16:21:52 PRC] PHP Fatal error:  Only variables can be passed by reference in D:\mvc\sinamvc\core\sina_router.php on line 45
+[30-Nov-2015 16:21:59 PRC] PHP Fatal error:  Only variables can be passed by reference in D:\mvc\sinamvc\core\sina_router.php on line 45
+[30-Nov-2015 16:22:00 PRC] PHP Fatal error:  Only variables can be passed by reference in D:\mvc\sinamvc\core\sina_router.php on line 45
+[30-Nov-2015 16:22:00 PRC] PHP Fatal error:  Only variables can be passed by reference in D:\mvc\sinamvc\core\sina_router.php on line 45
+[30-Nov-2015 16:22:00 PRC] PHP Fatal error:  Only variables can be passed by reference in D:\mvc\sinamvc\core\sina_router.php on line 45
+[30-Nov-2015 16:22:00 PRC] PHP Fatal error:  Only variables can be passed by reference in D:\mvc\sinamvc\core\sina_router.php on line 45
+[30-Nov-2015 16:22:01 PRC] PHP Fatal error:  Only variables can be passed by reference in D:\mvc\sinamvc\core\sina_router.php on line 45
+[30-Nov-2015 16:22:01 PRC] PHP Fatal error:  Only variables can be passed by reference in D:\mvc\sinamvc\core\sina_router.php on line 45
+[30-Nov-2015 16:22:01 PRC] PHP Fatal error:  Only variables can be passed by reference in D:\mvc\sinamvc\core\sina_router.php on line 45
+[30-Nov-2015 16:22:01 PRC] PHP Fatal error:  Only variables can be passed by reference in D:\mvc\sinamvc\core\sina_router.php on line 45
+[30-Nov-2015 16:22:01 PRC] PHP Fatal error:  Only variables can be passed by reference in D:\mvc\sinamvc\core\sina_router.php on line 45
+[30-Nov-2015 16:22:01 PRC] PHP Fatal error:  Only variables can be passed by reference in D:\mvc\sinamvc\core\sina_router.php on line 45
+[30-Nov-2015 16:22:02 PRC] PHP Fatal error:  Only variables can be passed by reference in D:\mvc\sinamvc\core\sina_router.php on line 45
+[30-Nov-2015 16:44:07 PRC] PHP Notice:  Undefined variable: thisres in D:\mvc\sinamvc\core\sina_router.php on line 12
+[30-Nov-2015 16:44:08 PRC] PHP Notice:  Undefined variable: thisres in D:\mvc\sinamvc\core\sina_router.php on line 12
+[30-Nov-2015 16:44:09 PRC] PHP Notice:  Undefined variable: thisres in D:\mvc\sinamvc\core\sina_router.php on line 12
+[30-Nov-2015 17:00:08 PRC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\mvc\sinamvc\core\sina_router.php on line 63
+[30-Nov-2015 17:00:11 PRC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\mvc\sinamvc\core\sina_router.php on line 63
+[30-Nov-2015 17:00:52 PRC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\mvc\sinamvc\core\sina_router.php on line 63
+[30-Nov-2015 17:01:11 PRC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\mvc\sinamvc\core\sina_router.php on line 66
+[30-Nov-2015 17:05:10 PRC] PHP Notice:  Undefined offset: 2 in D:\mvc\sinamvc\core\sina_router.php on line 64
+[30-Nov-2015 17:05:40 PRC] PHP Notice:  Undefined offset: 2 in D:\mvc\sinamvc\core\sina_router.php on line 64
+[30-Nov-2015 17:05:50 PRC] PHP Notice:  Undefined offset: 2 in D:\mvc\sinamvc\core\sina_router.php on line 65
+[30-Nov-2015 17:06:00 PRC] PHP Notice:  Undefined offset: 3 in D:\mvc\sinamvc\core\sina_router.php on line 65
+[30-Nov-2015 17:06:50 PRC] PHP Notice:  Undefined offset: 2 in D:\mvc\sinamvc\core\sina_router.php on line 65
+[30-Nov-2015 17:06:50 PRC] PHP Notice:  Undefined offset: 3 in D:\mvc\sinamvc\core\sina_router.php on line 65
+[30-Nov-2015 17:07:06 PRC] PHP Notice:  Undefined offset: 2 in D:\mvc\sinamvc\core\sina_router.php on line 65
+[30-Nov-2015 17:07:06 PRC] PHP Notice:  Undefined offset: 3 in D:\mvc\sinamvc\core\sina_router.php on line 65
+[30-Nov-2015 17:09:34 PRC] PHP Notice:  Undefined offset: 2 in D:\mvc\sinamvc\core\sina_router.php on line 65
+[30-Nov-2015 17:09:34 PRC] PHP Notice:  Undefined offset: 3 in D:\mvc\sinamvc\core\sina_router.php on line 65
+[30-Nov-2015 17:10:09 PRC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\mvc\sinamvc\core\sina_router.php on line 68
+[30-Nov-2015 17:10:12 PRC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\mvc\sinamvc\core\sina_router.php on line 64
+[30-Nov-2015 17:10:25 PRC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\mvc\sinamvc\core\sina_router.php on line 64
+[30-Nov-2015 17:10:33 PRC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\mvc\sinamvc\core\sina_router.php on line 64
+[30-Nov-2015 17:10:50 PRC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\mvc\sinamvc\core\sina_router.php on line 64
+[30-Nov-2015 17:10:57 PRC] PHP Notice:  Undefined offset: 2 in D:\mvc\sinamvc\core\sina_router.php on line 65
+[30-Nov-2015 17:10:57 PRC] PHP Notice:  Undefined offset: 3 in D:\mvc\sinamvc\core\sina_router.php on line 65
+[30-Nov-2015 17:11:46 PRC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\mvc\sinamvc\core\sina_router.php on line 8
+[30-Nov-2015 17:12:18 PRC] PHP Notice:  Undefined offset: 2 in D:\mvc\sinamvc\core\sina_router.php on line 65
+[30-Nov-2015 17:12:18 PRC] PHP Notice:  Undefined offset: 3 in D:\mvc\sinamvc\core\sina_router.php on line 66
+[30-Nov-2015 17:12:18 PRC] PHP Notice:  Undefined offset: 2 in D:\mvc\sinamvc\core\sina_router.php on line 67
+[30-Nov-2015 17:12:18 PRC] PHP Notice:  Undefined offset: 3 in D:\mvc\sinamvc\core\sina_router.php on line 67
+[30-Nov-2015 17:34:53 PRC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in D:\mvc\application\Controller\Welcome.php on line 8
+[30-Nov-2015 17:35:36 PRC] PHP Fatal error:  Class 'Controller' not found in D:\mvc\application\Controller\Welcome.php on line 8
